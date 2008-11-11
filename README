@@ -1,0 +1,2 @@
+Functions for formatting text as bbcode.
+You'll need a Lisp system such as SBCL to use this.
